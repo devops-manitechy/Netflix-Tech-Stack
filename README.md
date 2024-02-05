@@ -21,3 +21,5 @@ Step into the captivating world of Netflix's innovative continuous delivery pipe
 **Question for Discussion:** If you do chaos testing against production, what tools or techniques do you use? Every step is a story waiting to be told.
 
 This captivating tech stack showcases the innovation and resilience of Netflix's CI/CD pipeline.
+
+Credits :
