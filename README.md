@@ -22,4 +22,4 @@ Step into the captivating world of Netflix's innovative continuous delivery pipe
 
 This captivating tech stack showcases the innovation and resilience of Netflix's CI/CD pipeline.
 
-Credits :
+Credits : https://blog.bytebytego.com/
